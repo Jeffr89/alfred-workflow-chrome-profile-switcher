@@ -43,4 +43,4 @@ That's it! The workflow is ready to use.
 
 ## License
 
-This workflow is released under the [MIT License](link-to-your-license-file).
+This workflow is released under the MIT License
